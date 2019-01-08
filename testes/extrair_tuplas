@@ -1,0 +1,4 @@
+lista :: (String, String, String)
+lista = ("Teste", "Teste1", "Teste2")
+
+retornar (x, _, _) = x
